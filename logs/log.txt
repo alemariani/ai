@@ -1,0 +1,2 @@
+[INFO 2016-08-31 17:44:23] Request {'message': 'a'}
+[INFO 2016-08-31 17:44:23] Response {'message': 'Non conosco questo comando'}
